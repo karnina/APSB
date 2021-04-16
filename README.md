@@ -3,7 +3,7 @@ Federated Learning (FL) has enabled multiple mobile devices to collaboratively t
 
 ## Poster
 ### [APSB Poster](APSB-Poster-36x48-final.pdf)
-![image](APSB-Poster-36x48-final.png)
+![image](APSB-Poster-36x48.png)
 
 
 ## Group Members
